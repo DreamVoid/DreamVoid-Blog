@@ -1,7 +1,7 @@
 ---
 title: 使用Nginx搭建Minecraft加速IP
 date: 2020-05-01 15:32:45
-tags: Nginx,加速IP,Minecraft
+tags: Nginx 加速IP Minecraft
 ---
 大致就是用Nginx建一个Stream配置文件实现流量转发
 
