@@ -41,5 +41,6 @@ Nginx安装完成后，进入配置文件界面，删掉原来的HTTP部分，�
 
 可以去阿里云、腾讯云之类的域名提供商买域名，如果没钱的话，可以用https://freenom.com/的免费域名，都是一样的
 # 视频
-应该能看吧：
+应该能看吧
+
 <iframe src="//player.bilibili.com/player.html?aid=200445265&bvid=BV1jz411z77Y&cid=185486449&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
