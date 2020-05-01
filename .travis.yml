@@ -15,4 +15,3 @@ deploy:
   on:
     branch: master
   local-dir: public
-delete: false
