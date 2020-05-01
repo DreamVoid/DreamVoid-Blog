@@ -1,43 +1,43 @@
-categories: Categories
-search: Search
-tags: Tags
-tagcloud: Tag Cloud
-prev: "Prev: %s"
-next: "Next: %s"
-comment: Comments
-archive_a: Archives
-archive_b: "Archives: %s"
-page: Page %d
-recent_posts: Recent Posts
-blogroll: Links
-returntop: Return to top
-readmore: READ MORE
-floatmenu: Menu
+categories: 分类
+search: 搜索
+tags: 标签
+tagcloud: 标签云
+prev: 上一篇：%s
+next: 下一篇：%s
+comment: 留言
+archive_a: 归档
+archive_b: 归档：%s
+page: 第 %d 页
+recent_posts: 最近的文章
+blogroll: 友情链接
+returntop: 回到顶部
+readmore: 阅读全文
+floatmenu: 菜单
 
 menu:
-    home: Home
-    archives: Archives
-    category: Categories
-    reading: Reading
-    about: About
-    search: Search
-social: Social
+    home: 首页
+    archives: 归档
+    category: 分类
+    reading: 读书
+    about: 关于
+    search: 搜索
+social: 社交
 powered:
-    first: "Blog powered by"
-    last: "| Theme"
-current_page: Current page
+    first: 本博客由
+    last: "强力驱动 | 主题"
+current_page: 当前位置
 page_name:
-    categories: (Categories)
-    tags: (Tags)
-    archives: (Archives)
+    categories: （分类目录）
+    tags: （标签）
+    archives: （归档）
 reading:
-    score: Score
-    comment: Comment
+    score: 评分
+    comment: 简评
 about:
-    about: About
-    skills: Skills
-    works: Works & Projects
-construction: Page under construction...
-go_back_home: Go back home
-no_title: No title
-side_nav_paper: "%d"
+    about: 关于
+    skills: 技能
+    works: 作品与项目
+construction: 页面建设中...
+go_back_home: 返回首页
+no_title: 无题
+side_nav_paper: "%d 篇"
