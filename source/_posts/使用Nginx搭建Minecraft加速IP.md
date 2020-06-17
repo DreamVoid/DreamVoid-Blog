@@ -22,7 +22,8 @@ $ wget -O install.sh http://123.129.198.197/install/install-ubuntu_6.0.sh && sud
 
 # 配置
 Nginx安装完成后，进入配置文件界面，删掉原来的HTTP部分，把以下文件的代码复制到末尾
-'http://dl.dreamvoid.ml/file/17787109-440778997'
+`http://dl.dreamvoid.ml/file/17787109-440778997`
+
 然后点击重载配置，一个加速IP就搭建好了
 
 # 连接
@@ -45,5 +46,4 @@ Nginx安装完成后，进入配置文件界面，删掉原来的HTTP部分，�
 可以去阿里云、腾讯云之类的域名提供商买域名，如果没钱的话，可以用https://freenom.com/的免费域名，都是一样的
 # 视频
 应该能看吧
-
-<iframe src="//player.bilibili.com/player.html?aid=200445265&bvid=BV1jz411z77Y&cid=185486449&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=200445265&amp;bvid=BV1jz411z77Y&amp;cid=185486449&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" __idm_id__="116570113" height="600" width="100%"> </iframe>
