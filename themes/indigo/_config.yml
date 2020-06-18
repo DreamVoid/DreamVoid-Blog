@@ -13,20 +13,23 @@ menu:
     url: /
  # archives:
  #   url: /archives
-  tags:
-    url: /tags
+ # tags:
+ #   url: /tags
  # th-list:
  #   text: Categories
  #   url: /categories
- # github:
- #   url: https://github.com/yscoder
- #   target: _blank
+  github:
+    url: https://github.com/DreamVoid
+    target: _blank
  # weibo:
  #   url: http://www.weibo.com/ysweb
  #   target: _blank
  # link:
  #   text: 测试
  #   url: /custom
+  bilibili:
+    text: bilibili
+    url: https://space.bilibili.com/151029210
 
 # 你的头像url
 avatar: /img/avatar.jpg
@@ -49,7 +52,7 @@ archives_title: 存档
 categories_title: 分类
 
 # 文章截断
-excerpt_render: true
+excerpt_render: false
 excerpt_length: 200
 excerpt_link: 阅读全文...
 mathjax: false
@@ -79,7 +82,7 @@ toc:
   list_number: true  # 是否显示数字排序
 
 # 文章页留言内容，hexo中所有变量及辅助函数等均可调用，具体请查阅 hexo.io
-postMessage: 这里可以写作者留言，标签和 hexo 中所有变量及辅助函数等均可调用，示例：<a href="<%- url_for(page.path).replace(/index\.html$/, '') %>" target="_blank" rel="external"><%- page.permalink.replace(/index\.html$/, '') %></a>
+postMessage: The Last Dream
 
 # 站长统计，如要开启，输入CNZZ站点id，如 cnzz: 1255152447
 cnzz: 1279001045
@@ -109,19 +112,19 @@ disqus_shortname: false
 # 是否开启友言评论, 填写友言用户id
 uyan_uid: false
 # 是否使用 gitment，https://github.com/imsun/gitment
-gitment:
+gitment: false
  #gitment:
-   owner: 1279001045
-   repo: DreamVoid-HexoCommit
-   client_id: 7872401f76ea53190414
-   client_secret: 43c5524e40a4d3292098f4d801d92a0961ad6318
+ #  owner: DreamVoid
+ #  repo: DreamVoid-HexoCommit
+ #  client_id: 7872401f76ea53190414
+ #  client_secret: 43c5524e40a4d3292098f4d801d92a0961ad6318
 
 # use gitalk://github.com/gitalk/gitalk
-gitalk: false
-#  owner: 
-#  repo: 
-#  client_id: 
-#  client_secret: 
+gitalk: 
+  owner: DreamVoid
+  repo: DreamVoid-HexoCommit
+  client_id: 7872401f76ea53190414
+  client_secret: 43c5524e40a4d3292098f4d801d92a0961ad6318
 
 # Valine Comment system. https://valine.js.org
 valine:
