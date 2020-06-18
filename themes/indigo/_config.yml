@@ -28,7 +28,7 @@ menu:
  #   text: 测试
  #   url: /custom
   bilibili:
-    text: bilibili
+    text: 哔哩哔哩
     url: https://space.bilibili.com/151029210
 
 # 你的头像url
@@ -38,7 +38,7 @@ avatar_link: /
 # 头像背景图
 brand: /img/brand.jpg
 # favicon
-favicon: /favicon.ico
+favicon: /img/favicon.ico
 
 # email
 email: dreamvoid@vip.qq.com
