@@ -122,7 +122,7 @@ gitment: false
 # use gitalk://github.com/gitalk/gitalk
 gitalk: 
   owner: DreamVoid
-  repo: DreamVoid-HexoCommit
+  repo: DreamVoid-Blog
   client_id: 7872401f76ea53190414
   client_secret: 43c5524e40a4d3292098f4d801d92a0961ad6318
 
