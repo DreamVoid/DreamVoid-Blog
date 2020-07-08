@@ -15,6 +15,7 @@ menu:
  #   url: /archives
   tags:
     url: /tags
+    text: 标签
  # th-list:
  #   text: Categories
  #   url: /categories
