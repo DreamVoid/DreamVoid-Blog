@@ -3,7 +3,7 @@ name: Pages
 on:
   push:
     branches:
-      - web/hexo  # default branch
+      - main  # default branch
 
 jobs:
   pages:
@@ -29,5 +29,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-          publish_branch: web/hexo-public  # deploying branch
+          publish_dir: ./Hexo
+          publish_branch: web/hexo  # deploying branch
